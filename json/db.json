@@ -1,0 +1,11 @@
+{
+    "posts": [
+      { "id": 1, "title": "first"},
+      { "id": 2, "title": "second"}
+    ],
+    "comments": [
+      { "id": 1, "postId": 1, "text": "Great post!" },
+      { "id": 2, "postId": 2, "text": "Thanks for the tips!" }
+    ]
+  }
+  
